@@ -1,0 +1,3 @@
+# CASA Attribute Specification - Title
+
+[![Code Climate](https://codeclimate.com/github/AppSharing/casa-attributes-common.png)](https://codeclimate.com/github/AppSharing/casa-attributes-common) [![Build Status](https://travis-ci.org/AppSharing/casa-attributes-common.png)](https://travis-ci.org/AppSharing/casa-attributes-common) [![Coverage Status](https://coveralls.io/repos/AppSharing/casa-attributes-common/badge.png)](https://coveralls.io/r/AppSharing/casa-attributes-common) [![Dependency Status](https://gemnasium.com/AppSharing/casa-attributes-common.png)](https://gemnasium.com/AppSharing/casa-attributes-common)
