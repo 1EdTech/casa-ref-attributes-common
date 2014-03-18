@@ -5,9 +5,9 @@ require 'casa/attribute/strategy/filter/string'
 
 module CASA
   module Attribute
-    class Title < Definition
+    class Description < Definition
 
-      uuid '1f2625c2-615f-11e3-bf13-d231feb1dc81'
+      uuid 'b7856963-4078-4698-8e95-8feceafe78da'
 
       section 'use'
 
