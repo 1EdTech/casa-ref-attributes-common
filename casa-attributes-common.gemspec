@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
 
   s.name        = 'casa-attributes-common'
-  s.version     = '0.1.1'
+  s.version     = '0.1.2'
   s.summary     = 'Reference implementation of the CASA Protocol common attribute specifications'
   s.authors     = ['Eric Bollens']
   s.email       = ['ebollens@ucla.edu']

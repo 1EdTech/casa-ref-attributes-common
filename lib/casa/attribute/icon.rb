@@ -1,7 +1,7 @@
 require 'casa/attribute/definition'
 require 'casa/attribute/strategy/squash/string'
-require 'casa/attribute/strategy/transform/always_accept'
-require 'casa/attribute/strategy/filter/string'
+require 'casa/attribute/strategy/transform/string'
+require 'casa/attribute/strategy/filter/always_accept'
 
 module CASA
   module Attribute
